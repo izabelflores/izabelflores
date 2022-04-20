@@ -3,7 +3,7 @@
 - *Organizadora R-ladies Brasília*
 - *Estagiária IBRE-FGV*
 
-*Tenho interesse em extração, limpeza, organização e análise de dados, econometria e séries temporais*
+Interesses: *extração, limpeza, organização e análise de dados, econometria e séries temporais*
 
 <div id="badges">
   <a href="https://github.com/izabelflores">
