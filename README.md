@@ -15,6 +15,8 @@ Interesses: *extração, limpeza, organização e análise de dados, econometria
     <a href="mailto:izabelflores9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+   <a href="https://www.linkedin.com/in/izabel-flores-386478238/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 ---
