@@ -1,7 +1,7 @@
 ###  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; Izabel Flores
-- *Graduanda em Economia (UnB)*
+- *Graduada em Economia (UnB)*
+- *Mestranda em Economia (EESP-FGV)*
 - *Organizadora R-ladies Brasília*
-- *Estagiária IBRE-FGV*
 
 Interesses: *extração, limpeza, organização e análise de dados, econometria e séries temporais*
 
